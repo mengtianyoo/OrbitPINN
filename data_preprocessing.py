@@ -2,7 +2,7 @@ import numpy as np
 import pandas as pd
 from sklearn.preprocessing import StandardScaler
 
-def load_and_preprocess_data(spacecraft_path, moon_path, seq_len=10, pred_len=5):
+def load_and_preprocess_data(spacecraft_path, moon_path, seq_len=60, pred_len=5):
     """
     加载和预处理航天器和月球数据。
     参数:

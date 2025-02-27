@@ -4,7 +4,7 @@ from train import train_model
 import torch
 
 if __name__ == "__main__":
-    X, y, pos_scaler, vel_scaler = load_and_preprocess_data("artemis.csv", "moon.csv", seq_len=10, pred_len=5)
+    X, y, pos_scaler, vel_scaler = load_and_preprocess_data("orbitdata\Artemis I.csv", "orbitdata/Moon.csv", seq_len=10, pred_len=5)
     moon_pos = X[:, -5:, 6:9]
     
     # 转换为Tensor
