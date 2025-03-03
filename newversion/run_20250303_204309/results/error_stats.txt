@@ -1,0 +1,3 @@
+Mean position error: 328296.96 km
+Standard deviation of error: 74548.36 km
+Maximum error: 504401.84 km

@@ -1,0 +1,18 @@
+Phase: Near Earth
+  Number of points: 40
+  Mean error: 143950.98 km
+  Standard deviation: 31882.45 km
+  Maximum error: 193993.63 km
+
+Phase: Transit
+  Number of points: 4742
+  Mean error: 321595.84 km
+  Standard deviation: 66348.61 km
+  Maximum error: 522521.83 km
+
+Phase: Near Moon
+  Number of points: 624
+  Mean error: 402019.84 km
+  Standard deviation: 38693.70 km
+  Maximum error: 531864.36 km
+
